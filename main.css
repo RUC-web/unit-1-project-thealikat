@@ -1,1 +1,12 @@
-
+html {font-family:BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+font-size:1.2em;
+line-height:2;
+min-width: 600px;
+max-width: 900px;
+}
+h1-h6 {font-family: 'Lato', sans-serif;
+font-size:1.7em;
+line-height:2;}
+.bodytext {vmin:75%;
+  vmax:50%;
+}
